@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "customerId": 123,
+    "timestamp": "2023-01-09T21:36:53.763Z",
+    "amount": 111.25
+  },
+  {
+    "id": 2,
+    "customerId": 123,
+    "timestamp": "2022-12-15T21:36:53.763Z",
+    "amount": 45.99
+  },
+  {
+    "id": 3,
+    "customerId": 123,
+    "timestamp": "2022-12-05T21:36:53.763Z",
+    "amount": 88.97
+  },
+  {
+    "id": 4,
+    "customerId": 123,
+    "timestamp": "2022-11-27T21:36:53.763Z",
+    "amount": 149.99
+  },
+  {
+    "id": 5,
+    "customerId": 123,
+    "timestamp": "2022-10-30T21:36:53.763Z",
+    "amount": 218.12
+  },
+  {
+    "id": 6,
+    "customerId": 123,
+    "timestamp": "2022-10-18T21:36:53.763Z",
+    "amount": 104.79
+  },
+  {
+    "id": 9,
+    "customerId": 456,
+    "timestamp": "2022-12-12T21:36:53.763Z",
+    "amount": 56.97
+  },
+  {
+    "id": 10,
+    "customerId": 456,
+    "timestamp": "2022-11-27T21:36:53.763Z",
+    "amount": 118.19
+  },
+  {
+    "id": 11,
+    "customerId": 456,
+    "timestamp": "2022-10-30T21:36:53.763Z",
+    "amount": 138.64
+  },
+  {
+    "id": 12,
+    "customerId": 456,
+    "timestamp": "2022-10-18T21:36:53.763Z",
+    "amount": 104.79
+  },
+  {
+    "id": 13,
+    "customerId": 789,
+    "timestamp": "2023-01-09T21:36:53.763Z",
+    "amount": 315.25
+  },
+  {
+    "id": 14,
+    "customerId": 789,
+    "timestamp": "2022-12-15T21:36:53.763Z",
+    "amount": 389.99
+  }
+]

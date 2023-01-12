@@ -1,0 +1,52 @@
+.App {
+  font-size: 16px;
+  color: white;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.customer {
+  display: grid;
+  grid-template-columns: 500px 700px;
+  border-bottom: 4px solid #3c414b;
+  padding-left: 40px;
+}
+
+h2 {
+  margin-top: 20px;
+  padding: 0;
+}
+
+.table {
+  margin-bottom: 60px;
+  max-width: 400px;
+}
+
+.th, .tr {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr) 150px;
+}
+
+.th {
+  font-size: 1.2em;
+  font-weight: bold;
+  border-bottom: 2px solid white;
+  margin-bottom: 8px;
+}
+
+.totals {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 300px repeat(2, 1fr);
+  grid-gap: 12;
+}
+
+.total {
+  font-size: 1.7em;
+}
